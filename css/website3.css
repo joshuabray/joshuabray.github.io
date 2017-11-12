@@ -1,0 +1,92 @@
+
+body{
+	background-color : grey;
+}
+
+.navbar{
+	margin-bottom: 0px;
+	width: 100%;
+	position: fixed;
+	z-index: 999;
+
+}
+.profile-margin{
+	margin-top: 0px;
+}
+
+.hommies-margin{
+	margin-top: 50px;
+}
+.main-background{
+	background-image: url(../img/Crips.jpg);
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-attachment: fixed;
+}
+
+.black-back{
+	background-color: black;
+}
+.white-text{
+	color: white;
+	font-size: 40px;
+}
+.black-text{
+	color: black;
+	font-size: 40px;
+}
+.card-block{
+	padding: 10px;
+	border: 1px solid grey;
+}
+
+.image-circle{
+	width: 100%;
+	border-radius: 20%; 
+}
+.card-text{
+	color: #b3afaf;
+}
+
+.gunz {
+	width: 100%;
+	border: 0px;
+}
+
+.grey{
+	border: 2px solid grey;
+}
+
+.col-md-4 {
+	padding: 20px;
+}
+
+.col-md-8{
+	border: 2px solid black;
+	color: black;
+	background-color: white;
+}
+
+@-webkit-keyframes pulsate {
+    0% {-webkit-transform: scale(0.1, 0.1); opacity: 0.0;}
+    50% {opacity: 1.0;}
+    100% {-webkit-transform: scale(1.2, 1.2); opacity: 0.0;}
+}
+.fit-video{
+	width:100%;
+}
+
+.nav-link {
+	margin-right: 25px;
+	position: relative;
+	top: 15px;
+}
+
+.mySlides {
+	width: 100%;
+}
+.d-block{
+	width: 100%;
+}
